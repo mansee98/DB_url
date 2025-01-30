@@ -1,0 +1,26 @@
+{
+  "name": "url",
+  "version": "1.0.0",
+  "main": "Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mansee98/WithoutDBurlshortner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mansee98/WithoutDBurlshortner/issues"
+  },
+  "homepage": "https://github.com/mansee98/WithoutDBurlshortner#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mysql": "^2.18.1"
+  }
+}
